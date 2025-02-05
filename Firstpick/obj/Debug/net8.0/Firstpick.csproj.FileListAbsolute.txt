@@ -1,0 +1,15 @@
+T:\Marcos Pereira\csharp\Firstpick\bin\Debug\net8.0\Firstpick.exe
+T:\Marcos Pereira\csharp\Firstpick\bin\Debug\net8.0\Firstpick.deps.json
+T:\Marcos Pereira\csharp\Firstpick\bin\Debug\net8.0\Firstpick.runtimeconfig.json
+T:\Marcos Pereira\csharp\Firstpick\bin\Debug\net8.0\Firstpick.dll
+T:\Marcos Pereira\csharp\Firstpick\bin\Debug\net8.0\Firstpick.pdb
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.GeneratedMSBuildEditorConfig.editorconfig
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.AssemblyInfoInputs.cache
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.AssemblyInfo.cs
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.csproj.CoreCompileInputs.cache
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.sourcelink.json
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.dll
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\refint\Firstpick.dll
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.pdb
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\Firstpick.genruntimeconfig.cache
+T:\Marcos Pereira\csharp\Firstpick\obj\Debug\net8.0\ref\Firstpick.dll
