@@ -1,0 +1,15 @@
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\bin\Debug\net9.0\cancatenacao].exe
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\bin\Debug\net9.0\cancatenacao].deps.json
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\bin\Debug\net9.0\cancatenacao].runtimeconfig.json
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\bin\Debug\net9.0\cancatenacao].dll
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\bin\Debug\net9.0\cancatenacao].pdb
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].AssemblyInfoInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].AssemblyInfo.cs
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].csproj.CoreCompileInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].sourcelink.json
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].dll
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\refint\cancatenacao].dll
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].pdb
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\cancatenacao].genruntimeconfig.cache
+T:\Workspace\marcos PEREIRA\csharp\concatenacao\obj\Debug\net9.0\ref\cancatenacao].dll
