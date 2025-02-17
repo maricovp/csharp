@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("cancatenacao]")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("condicionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb068d99b40a600cf64f6af7bbc5887334c96d9")]
-[assembly: System.Reflection.AssemblyProductAttribute("cancatenacao]")]
-[assembly: System.Reflection.AssemblyTitleAttribute("cancatenacao]")]
+[assembly: System.Reflection.AssemblyProductAttribute("condicionais")]
+[assembly: System.Reflection.AssemblyTitleAttribute("condicionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
