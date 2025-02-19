@@ -1,0 +1,18 @@
+﻿Random numeroAleatorio = new Random();
+int numero=numeroAleatorio.Next();
+int contador = 0;
+Console.WriteLine($"Numero Alvo: {numero}");
+while(contador <= numero)
+{
+    Console.WriteLine($"Contador: {contador}.");
+}
+Console.WriteLine($"Contador atingiu o número alvo: {contador}");
+
+// estrutura de repetição do while//
+int numero1 = 0;
+
+do
+{
+    Console.WriteLine($"Númer1: {numero1}");
+    numero1++;
+}while(numero1 <10);
