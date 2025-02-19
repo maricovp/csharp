@@ -22,3 +22,12 @@ for(int i = 0; i <= 10; i++)
 {
     Console.WriteLine($"Valor de i: {i}");
 }
+
+// estrutura de repetição foreach//
+
+string[] nomes = {"Marcos", "Matheo", "Daniel"};
+
+foreach(string nome in nomes)
+{
+    Console.WriteLine($"Nome: {nome}");
+}
