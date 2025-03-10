@@ -1,0 +1,15 @@
+T:\Workspace\marcos PEREIRA\csharp\classes\bin\Debug\net9.0\classes.exe
+T:\Workspace\marcos PEREIRA\csharp\classes\bin\Debug\net9.0\classes.deps.json
+T:\Workspace\marcos PEREIRA\csharp\classes\bin\Debug\net9.0\classes.runtimeconfig.json
+T:\Workspace\marcos PEREIRA\csharp\classes\bin\Debug\net9.0\classes.dll
+T:\Workspace\marcos PEREIRA\csharp\classes\bin\Debug\net9.0\classes.pdb
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.AssemblyInfoInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.AssemblyInfo.cs
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.csproj.CoreCompileInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.sourcelink.json
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.dll
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\refint\classes.dll
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.pdb
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\classes.genruntimeconfig.cache
+T:\Workspace\marcos PEREIRA\csharp\classes\obj\Debug\net9.0\ref\classes.dll
