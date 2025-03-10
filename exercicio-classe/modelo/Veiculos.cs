@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace exercicio_classe.model
 {
 
-public class Veiculo
+public class Veiculos
 {
  // Atributos
 string marca;
@@ -14,7 +14,7 @@ string modelo;
 int ano;
 
          // Construtor
-public Veiculo(string marca, string modelo, int ano)
+public Veiculos(string marca, string modelo, int ano)
 {
 this.marca = marca;
 this.modelo = modelo;
