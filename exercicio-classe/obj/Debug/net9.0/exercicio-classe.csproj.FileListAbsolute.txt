@@ -1,0 +1,15 @@
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\bin\Debug\net9.0\exercicio-classe.exe
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\bin\Debug\net9.0\exercicio-classe.deps.json
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\bin\Debug\net9.0\exercicio-classe.runtimeconfig.json
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\bin\Debug\net9.0\exercicio-classe.dll
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\bin\Debug\net9.0\exercicio-classe.pdb
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.AssemblyInfoInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.AssemblyInfo.cs
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.csproj.CoreCompileInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.sourcelink.json
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.dll
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\refint\exercicio-classe.dll
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.pdb
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\exercicio-classe.genruntimeconfig.cache
+T:\Workspace\marcos PEREIRA\csharp\exercicio-classe\obj\Debug\net9.0\ref\exercicio-classe.dll
