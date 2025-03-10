@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace classes.modelo
 {
     public class Pessoa
-    {
+    
         string nome;
         int idade;
         double altura;
@@ -19,5 +19,13 @@ namespace classes.modelo
             this.altura = altura;
             this.peso = peso;
         }
-    }
+        public void Andar()
+        {
+            Console.WriteLine($"{nome} está andando");
+        }
+        public void Falar()
+        {
+            Console.WriteLine($"{nome} vou ficar rico programando em C#!")
+        }
+    
 }
