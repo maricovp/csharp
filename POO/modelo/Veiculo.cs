@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace POO.modelo
 {
 
-public class Veiculos
+public abstract class Veiculos
 {
  // Atributos
 private string marca;
@@ -65,5 +65,6 @@ Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está acelerando.")
 public void Freiar(){
 Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está freiando");
 }
+public abstract void ObterDadosDoVeiculo();
 }
 }

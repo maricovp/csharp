@@ -1,4 +1,4 @@
-﻿﻿using POO.model;
+﻿using POO.model;
 using POO.modelo;
 
 Veiculos obj = new Veiculos("wolks", "gol", 2011, 330.00);
