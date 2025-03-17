@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
 namespace POO.modelo
@@ -59,6 +60,7 @@ public void Setvelocidadeatual(string marca)
 public void Acelerar()
 {
 Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está acelerando.");
+
 }
 public void Freiar(){
 Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está freiando");

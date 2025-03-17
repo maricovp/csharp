@@ -8,7 +8,7 @@ namespace POO.model
 {
     public class Moto : Veiculos
     {
-         private bool partidaEletrica;
+        private bool partidaEletrica;
         private bool protetorDeCarenagem;
 
         public Moto(string marca, string modelo, int ano, double velocidadeAtual, bool partidaEletrica, bool protetorDeCarenagem) : base(marca, modelo, ano, velocidadeAtual)
@@ -20,7 +20,7 @@ namespace POO.model
         {
             return partidaEletrica;
         }
-         public void SetPartidaEletrica(bool partidaEletrica)
+        public void SetPartidaEletrica(bool partidaEletrica)
         {
             this.partidaEletrica = partidaEletrica;
         }
@@ -37,6 +37,11 @@ namespace POO.model
         public void Empinar()
         {
             Console.WriteLine("Empinando a moto!");
+        }
+        public virtual void Acelerar(double incremento)
+        {
+            velocidadeatual += incremento;
+            Console.WriteLine($"A moto conseguiu e atingiu a velocidade de {velocidadeatual} km/h ")
         }
     }
 }
