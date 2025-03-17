@@ -41,7 +41,7 @@ namespace POO.model
         public virtual void Acelerar(double incremento)
         {
             velocidadeatual += incremento;
-            Console.WriteLine($"A moto conseguiu e atingiu a velocidade de {velocidadeatual} km/h ")
+            Console.WriteLine($"A moto conseguiu e atingiu a velocidade de {velocidadeatual} km/h ");
         }
     }
 }

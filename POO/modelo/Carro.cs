@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Threading.Tasks;
 using POO.modelo;
 
@@ -32,9 +33,37 @@ namespace POO.model
         {
             this.numeroDePortas = numeroDePortas;
         }
+public void Acelerar(double incremento)
+{
+            velocidadeatual += incremento;
+            Console.WriteLine($"Acelerando... Velocidade atual: {velocidadeatual}km/h");
+}
+
         public void AbrirPortas()
         {
             Console.WriteLine("As portas do carro estão abertas.");
         }
+        public void Freiar(double incremento, bool puxarFreioDeMao)
+{
+    velocidadeatual -= decremento;
+    if(puxarFreioDeMao)
+    {
+        Console.WriteLine($" O carro freou até a velocidade de {velocidadeatual} Km/H para não bater");
+    }
+    else{
+        Console.WriteLine($"O carro freou lentamente até {velocidadeatual} km/h");
+    }
+}
+public void Frear( double decremento, bool puxarFreioDeMao, bool virouVolante)
+{
+    velocidadeatual -= decremento;
+    if (puxarFreioDeMao && virouVolante)
+    {
+        Console.WriteLine($"O carro está realizando um cavalinho de pau com intensidade de frenagem{velocidadeatual}!");
+    }
+    else{
+        Console.WriteLine($"O carro freou até {velocidadeatual} km/h");
+    }
+}
     }
 }

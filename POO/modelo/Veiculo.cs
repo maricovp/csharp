@@ -67,4 +67,3 @@ Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está freiando");
 }
 }
 }
-    
