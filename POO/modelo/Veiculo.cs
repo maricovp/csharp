@@ -11,7 +11,7 @@ public class Veiculos
  // Atributos
 private string marca;
 private string modelo;
- private int ano;
+private int ano;
 protected double velocidadeatual;
 
          // Construtor
