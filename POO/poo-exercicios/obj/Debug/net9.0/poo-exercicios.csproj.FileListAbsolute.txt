@@ -1,0 +1,15 @@
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\bin\Debug\net9.0\poo-exercicios.exe
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\bin\Debug\net9.0\poo-exercicios.deps.json
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\bin\Debug\net9.0\poo-exercicios.runtimeconfig.json
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\bin\Debug\net9.0\poo-exercicios.dll
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\bin\Debug\net9.0\poo-exercicios.pdb
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.AssemblyInfoInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.AssemblyInfo.cs
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.csproj.CoreCompileInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.sourcelink.json
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.dll
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\refint\poo-exercicios.dll
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.pdb
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\poo-exercicios.genruntimeconfig.cache
+T:\Workspace\marcos PEREIRA\csharp\POO\poo-exercicios\obj\Debug\net9.0\ref\poo-exercicios.dll
