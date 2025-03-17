@@ -57,7 +57,7 @@ public void Setvelocidadeatual(string marca)
 }
 
  // Métodos Andar e Falar
-public void Acelerar()
+public void acelerar()
 {
 Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está acelerando.");
 

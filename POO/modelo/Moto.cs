@@ -34,14 +34,24 @@ namespace POO.model
             this.protetorDeCarenagem = protetorDeCarenagem;
         }
 
+        public virtual void Acelerar(double incremento)
+        {
+            velocidadeatual += incremento;
+            Console.WriteLine($"A moto acelerou e atingiu a velocidade de {velocidadeatual} km/h.");
+        }
+
         public void Empinar()
         {
             Console.WriteLine("Empinando a moto!");
         }
-        public virtual void Acelerar(double incremento)
+        public override void ObterDadosDoVeiculo()
         {
-            velocidadeatual += incremento;
-            Console.WriteLine($"A moto conseguiu e atingiu a velocidade de {velocidadeatual} km/h ");
+            Console.WriteLine($"Dados da moto:\n");
+            Console.WriteLine($"Marca:{GetMarca()} ");
+            Console.WriteLine($"Modelo: {GetModelo()}");
+            Console.WriteLine($"Ano{Getano()}");
+            Console.WriteLine($"Partida elétrica: {(GetPartidaEletrica()? "Sim":"Não")}");
+            Console.WriteLine($"Protetor de carenagem: {(GetProtetorDeCarenagem()? "Sim":"Não")}");
         }
     }
 }
