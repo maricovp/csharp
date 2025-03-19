@@ -1,0 +1,15 @@
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\bin\Debug\net9.0\jogo-de-batalha.exe
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\bin\Debug\net9.0\jogo-de-batalha.deps.json
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\bin\Debug\net9.0\jogo-de-batalha.runtimeconfig.json
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\bin\Debug\net9.0\jogo-de-batalha.dll
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\bin\Debug\net9.0\jogo-de-batalha.pdb
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.AssemblyInfoInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.AssemblyInfo.cs
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.csproj.CoreCompileInputs.cache
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.sourcelink.json
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.dll
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\refint\jogo-de-batalha.dll
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.pdb
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\jogo-de-batalha.genruntimeconfig.cache
+T:\Workspace\marcos PEREIRA\csharp\jogo-de-batalha\obj\Debug\net9.0\ref\jogo-de-batalha.dll

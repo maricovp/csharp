@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace POO.modelo
+namespace POO.model
 {
 
 public abstract class Veiculos
